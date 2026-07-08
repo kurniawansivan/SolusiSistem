@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Solusi Sistem">
+  <defs>
+    <linearGradient id="g" x1="2" y1="2" x2="38" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="38" height="38" rx="11" fill="url(#g)" fill-opacity="0.08" />
+  <rect x="1" y="1" width="38" height="38" rx="11" stroke="url(#g)" stroke-width="1.4" />
+  <text x="20" y="27.5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="16.5" letter-spacing="-0.5" fill="url(#g)">SS</text>
+</svg>

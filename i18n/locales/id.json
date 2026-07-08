@@ -1,0 +1,249 @@
+{
+  "nav": {
+    "services": "Layanan",
+    "process": "Proses",
+    "whyUs": "Kenapa Kami",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "cta": "Konsultasi Gratis"
+  },
+  "footer": {
+    "tagline": "Mitra teknologi untuk website, mobile app, AI, dan automation bisnis Anda.",
+    "navTitle": "Navigasi",
+    "contactTitle": "Kontak",
+    "ctaTitle": "Siap Mulai?",
+    "ctaText": "Konsultasikan kebutuhan sistem Anda, gratis tanpa komitmen.",
+    "rights": "Seluruh hak cipta dilindungi."
+  },
+  "hero": {
+    "eyebrow": "Web · Mobile · AI · Automation",
+    "titleStart": "Wujudkan",
+    "titleHighlight": "sistem digital",
+    "titleEnd": "yang bikin bisnis Anda tumbuh",
+    "subtitle": "Solusi Sistem membantu bisnis membangun website, aplikasi mobile, solusi AI, dan automation dalam satu tim — cepat, modern, dan siap berkembang bersama bisnis Anda.",
+    "ctaPrimary": "Konsultasi Gratis",
+    "ctaSecondary": "Lihat Layanan",
+    "chips": {
+      "fullService": "Satu tim untuk semua kebutuhan digital",
+      "ownership": "Kode sumber 100% milik Anda",
+      "support": "Didampingi sampai sistem live"
+    },
+    "floatMobile": "Aplikasi Mobile",
+    "floatAi": "AI Assistant"
+  },
+  "services": {
+    "eyebrow": "Layanan Kami",
+    "title": "Satu tim, empat kapabilitas digital",
+    "subtitle": "Lihat contoh sederhana dari apa yang bisa kami bangun untuk bisnis Anda.",
+    "cta": "Konsultasikan Kebutuhan Ini",
+    "web": {
+      "title": "Website & Web App",
+      "desc": "Kami bangun website company profile, landing page, hingga web app kompleks yang cepat, aman, dan mudah dikembangkan — dari desain sampai deploy.",
+      "feature1": "Desain modern, responsive di semua perangkat",
+      "feature2": "Performa cepat & SEO-friendly sejak awal",
+      "feature3": "Dashboard admin & integrasi API sesuai kebutuhan"
+    },
+    "mobile": {
+      "title": "Aplikasi Mobile",
+      "desc": "Aplikasi Android & iOS yang smooth dan intuitif untuk pelanggan maupun operasional internal bisnis Anda, dari konsep sampai rilis ke Play Store/App Store.",
+      "feature1": "UI/UX natural, nyaman dipakai sehari-hari",
+      "feature2": "Satu codebase untuk Android & iOS (cross-platform)",
+      "feature3": "Notifikasi, pembayaran, hingga integrasi API pihak ketiga"
+    },
+    "ai": {
+      "title": "Solusi AI",
+      "desc": "Integrasikan AI ke bisnis Anda — chatbot customer service, analisis data otomatis, sampai fitur cerdas yang mempercepat kerja tim.",
+      "feature1": "Chatbot & asisten virtual yang bisa dilatih sesuai bisnis Anda",
+      "feature2": "Analisis & prediksi data untuk keputusan lebih cepat",
+      "feature3": "Integrasi model AI ke sistem yang sudah berjalan"
+    },
+    "automation": {
+      "title": "Automation & Integrasi",
+      "desc": "Hilangkan kerjaan manual berulang — hubungkan tools bisnis Anda (order, WhatsApp, spreadsheet, CRM) agar berjalan otomatis tanpa campur tangan tim.",
+      "feature1": "Alur kerja otomatis antar aplikasi & platform",
+      "feature2": "Integrasi WhatsApp, email, hingga sistem internal",
+      "feature3": "Hemat waktu tim, minim human error"
+    }
+  },
+  "prototypes": {
+    "web": {
+      "title": "Analytics Overview",
+      "live": "Live",
+      "stats": {
+        "visitors": "Pengunjung",
+        "conversion": "Konversi",
+        "uptime": "Uptime"
+      }
+    },
+    "mobile": {
+      "greeting": "Selamat datang kembali",
+      "title": "Mau pesan apa hari ini?",
+      "services": {
+        "0": { "name": "Layanan Cepat", "desc": "Booking dalam 1 menit" },
+        "1": { "name": "Jadwal Terkelola", "desc": "Atur jadwal otomatis" },
+        "2": { "name": "Riwayat Pesanan", "desc": "Pantau semua transaksi" }
+      },
+      "ordersTitle": "Pesanan Saya",
+      "orderNumber": "Order",
+      "status": {
+        "inProgress": "Diproses",
+        "completed": "Selesai"
+      },
+      "profileName": "Solusi Sistem",
+      "profileRole": "Contoh Pengguna Aplikasi",
+      "tabs": {
+        "home": "Beranda",
+        "orders": "Pesanan",
+        "profile": "Profil"
+      }
+    },
+    "ai": {
+      "assistantName": "SS Assistant",
+      "online": "Online",
+      "greeting": "Halo! Ada yang bisa saya bantu terkait kebutuhan digital Anda?",
+      "placeholder": "Tulis pesan...",
+      "send": "Kirim",
+      "chips": {
+        "pricing": "Berapa biayanya?",
+        "timeline": "Berapa lama pengerjaan?",
+        "mobile": "Bisa buat aplikasi mobile?",
+        "automation": "Bisa bantu automasi bisnis?"
+      },
+      "replies": {
+        "pricing": "Biaya kami sesuaikan kebutuhan & skala proyek. Yuk konsultasi gratis dulu biar kami hitungkan estimasinya.",
+        "mobile": "Bisa! Tim kami bangun aplikasi Android & iOS dari nol sampai rilis ke store.",
+        "automation": "Tentu, kami bisa hubungkan tools bisnis Anda supaya kerja tim jadi otomatis dan lebih efisien.",
+        "timeline": "Durasi tergantung kompleksitas proyek, biasanya beberapa minggu. Konsultasi dulu untuk estimasi akurat ya.",
+        "default": "Menarik! Ceritakan lebih detail kebutuhan Anda, atau langsung hubungi tim kami untuk konsultasi gratis."
+      }
+    },
+    "automation": {
+      "title": "Alur Automasi",
+      "active": "Aktif",
+      "steps": {
+        "trigger": { "title": "Order Masuk", "desc": "Trigger saat ada transaksi baru" },
+        "whatsapp": { "title": "Kirim WhatsApp", "desc": "Notifikasi otomatis ke pelanggan" },
+        "sheet": { "title": "Update Spreadsheet", "desc": "Data tercatat otomatis" },
+        "notify": { "title": "Notifikasi Tim", "desc": "Tim internal langsung diberi tahu" }
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Cara Kerja",
+    "title": "Proses kerja yang jelas dari awal sampai selesai",
+    "subtitle": "Transparan di setiap tahap, jadi Anda selalu tahu progres proyek Anda.",
+    "steps": {
+      "consult": { "title": "Konsultasi", "desc": "Diskusikan kebutuhan & tujuan bisnis Anda bersama tim kami, gratis." },
+      "design": { "title": "Perencanaan & Desain", "desc": "Susun rencana teknis dan desain UI/UX yang sesuai kebutuhan." },
+      "develop": { "title": "Development", "desc": "Tim kami bangun sistem dengan update progres berkala." },
+      "launch": { "title": "Testing & Rilis", "desc": "Uji menyeluruh sebelum sistem resmi diluncurkan." },
+      "support": { "title": "Support Berkelanjutan", "desc": "Pendampingan & maintenance setelah sistem berjalan." }
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Kenapa Solusi Sistem",
+    "title": "Mitra teknologi yang paham kebutuhan bisnis Anda",
+    "subtitle": "Bukan sekadar vendor — kami jadi partner jangka panjang untuk pertumbuhan digital bisnis Anda.",
+    "items": {
+      "team": { "title": "Tim Multi-Disiplin", "desc": "Web, mobile, AI, dan automation ditangani satu tim yang sama — tidak perlu koordinasi ke banyak vendor." },
+      "stack": { "title": "Teknologi Modern", "desc": "Kami pakai teknologi terkini yang scalable, supaya sistem Anda tahan lama dan mudah dikembangkan." },
+      "communication": { "title": "Komunikasi Transparan", "desc": "Update progres rutin dan akses langsung ke tim pengembang, tanpa birokrasi berbelit." },
+      "support": { "title": "Dukungan Purna Jual", "desc": "Kami tetap mendampingi setelah sistem live — bukan lepas tangan setelah proyek selesai." }
+    }
+  },
+  "trust": {
+    "title": "Komitmen Kami untuk Setiap Klien",
+    "items": {
+      "freeConsult": "Konsultasi Awal Gratis",
+      "sourceOwnership": "Kode Sumber 100% Milik Anda",
+      "revisionGuarantee": "Garansi Revisi",
+      "responsiveSupport": "Support Responsif",
+      "transparentPricing": "Harga Transparan",
+      "modernStack": "Teknologi Modern"
+    }
+  },
+  "cta": {
+    "title": "Siap kembangkan bisnis Anda dengan sistem yang tepat?",
+    "subtitle": "Konsultasikan kebutuhan Anda sekarang, gratis tanpa komitmen.",
+    "ctaPrimary": "Konsultasi Gratis",
+    "ctaWhatsapp": "Chat via WhatsApp",
+    "whatsappMessage": "Halo Solusi Sistem, saya ingin konsultasi mengenai kebutuhan sistem/aplikasi untuk bisnis saya."
+  },
+  "seo": {
+    "home": {
+      "title": "Solusi Sistem — Jasa Web, Mobile App, AI & Automation",
+      "description": "Solusi Sistem membantu bisnis Anda membangun website, aplikasi mobile, solusi AI, dan automation yang modern, scalable, dan siap berkembang."
+    },
+    "about": {
+      "title": "Tentang Kami — Solusi Sistem",
+      "description": "Kenali Solusi Sistem, mitra teknologi untuk kebutuhan web, mobile, AI, dan automation bisnis Anda."
+    },
+    "contact": {
+      "title": "Hubungi Kami — Solusi Sistem",
+      "description": "Konsultasikan kebutuhan digital bisnis Anda bersama tim Solusi Sistem. Gratis dan tanpa komitmen."
+    }
+  },
+  "about": {
+    "eyebrow": "Tentang Kami",
+    "title": "Mitra teknologi untuk bisnis yang siap bertumbuh",
+    "subtitle": "Solusi Sistem hadir membantu bisnis Anda memanfaatkan teknologi digital secara maksimal — dari website sederhana sampai sistem automation yang kompleks.",
+    "story": {
+      "title": "Kenapa Solusi Sistem?",
+      "paragraph1": "Kami percaya setiap bisnis, besar maupun kecil, berhak punya sistem digital yang bekerja secepat dan setepat kebutuhannya — bukan solusi generik yang dipaksakan.",
+      "paragraph2": "Karena itu, kami bangun Solusi Sistem sebagai satu tim yang menguasai web, mobile, AI, dan automation sekaligus, sehingga Anda cukup bicara dengan satu partner untuk seluruh kebutuhan transformasi digital."
+    },
+    "vision": { "title": "Visi", "text": "Menjadi mitra teknologi tepercaya yang membantu bisnis di Indonesia bertransformasi digital secara menyeluruh." },
+    "mission": { "title": "Misi", "text": "Menghadirkan solusi web, mobile, AI, dan automation yang relevan, terjangkau, dan berkelanjutan bagi setiap klien." },
+    "values": {
+      "title": "Nilai yang Kami Pegang",
+      "subtitle": "Prinsip ini yang memandu cara kami bekerja di setiap proyek.",
+      "items": {
+        "quality": { "title": "Kualitas", "desc": "Kami tidak asal jadi — setiap sistem diuji dan dirapikan sebelum sampai ke tangan Anda." },
+        "innovation": { "title": "Inovasi", "desc": "Selalu update dengan teknologi terbaru agar solusi kami tetap relevan jangka panjang." },
+        "collaboration": { "title": "Kolaborasi", "desc": "Kami bekerja bersama Anda, bukan hanya untuk Anda — masukan Anda bagian dari proses." },
+        "integrity": { "title": "Integritas", "desc": "Komunikasi jujur soal biaya, waktu, dan batasan teknis sejak awal proyek." }
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Hubungi Kami",
+    "title": "Mari diskusikan kebutuhan digital Anda",
+    "subtitle": "Isi form di bawah atau hubungi kami langsung — tim kami akan merespons secepatnya.",
+    "form": {
+      "name": "Nama Lengkap",
+      "namePlaceholder": "Nama Anda",
+      "email": "Email",
+      "emailPlaceholder": "nama{'@'}email.com",
+      "phone": "Nomor Telepon",
+      "phonePlaceholder": "08xx-xxxx-xxxx",
+      "service": "Layanan yang Diminati",
+      "servicePlaceholder": "Pilih layanan",
+      "serviceOptions": {
+        "web": "Website & Web App",
+        "mobile": "Aplikasi Mobile",
+        "ai": "Solusi AI",
+        "automation": "Automation & Integrasi",
+        "other": "Lainnya"
+      },
+      "message": "Ceritakan Kebutuhan Anda",
+      "messagePlaceholder": "Contoh: Saya butuh website company profile dengan fitur...",
+      "submit": "Kirim Pesan",
+      "submitting": "Mengirim...",
+      "successTitle": "Pesan terkirim!",
+      "successText": "Terima kasih, tim kami akan segera menghubungi Anda.",
+      "errorText": "Maaf, pesan gagal terkirim. Coba lagi atau hubungi kami langsung via WhatsApp."
+    },
+    "direct": {
+      "title": "Kontak Langsung",
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "phone": "Telepon",
+      "address": "Alamat"
+    }
+  },
+  "error": {
+    "title": "Halaman Tidak Ditemukan",
+    "subtitle": "Sepertinya halaman yang Anda cari tidak ada atau sudah dipindahkan.",
+    "cta": "Kembali ke Beranda"
+  }
+}

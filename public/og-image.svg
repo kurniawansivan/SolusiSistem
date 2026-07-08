@@ -1,0 +1,32 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EEF2FF" />
+      <stop offset="1" stop-color="#ECFEFF" />
+    </linearGradient>
+    <linearGradient id="mark" x1="40" y1="40" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+    <radialGradient id="blob1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 120) rotate(90) scale(360)">
+      <stop stop-color="#818CF8" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blob2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 560) rotate(-90) scale(320)">
+      <stop stop-color="#22D3EE" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#blob1)" />
+  <rect width="1200" height="630" fill="url(#blob2)" />
+
+  <rect x="80" y="120" width="160" height="160" rx="40" fill="url(#mark)" fill-opacity="0.1" />
+  <rect x="80" y="120" width="160" height="160" rx="40" stroke="url(#mark)" stroke-width="4" />
+  <text x="160" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="66" letter-spacing="-2" fill="url(#mark)">SS</text>
+
+  <text x="80" y="380" font-family="Arial, sans-serif" font-weight="800" font-size="58" fill="#0F172A">Solusi Sistem</text>
+  <text x="80" y="430" font-family="Arial, sans-serif" font-weight="500" font-size="28" fill="#475569">Web &#183; Mobile Apps &#183; AI &#183; Automation</text>
+  <text x="80" y="480" font-family="Arial, sans-serif" font-weight="400" font-size="24" fill="#64748B">Mitra teknologi untuk bisnis yang siap berkembang.</text>
+</svg>

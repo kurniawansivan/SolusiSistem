@@ -10,7 +10,7 @@ const steps = [
 </script>
 
 <template>
-  <div class="w-full max-w-2xl rounded-2xl border border-border bg-white p-6 shadow-card">
+  <div class="w-full min-w-0 max-w-2xl rounded-2xl border border-border bg-white p-6 shadow-card">
     <div class="mb-6 flex items-center justify-between">
       <p class="text-sm font-semibold text-ink">{{ t('prototypes.automation.title') }}</p>
       <span class="inline-flex items-center gap-1.5 rounded-full bg-emerald-50 px-2.5 py-1 text-[11px] font-medium text-emerald-600">
@@ -19,7 +19,7 @@ const steps = [
       </span>
     </div>
 
-    <div class="flex snap-x items-center gap-1 overflow-x-auto pb-2">
+    <div class="flex snap-x items-center gap-1 overflow-x-auto pb-2" data-lenis-prevent>
       <template v-for="(step, i) in steps" :key="step.key">
         <div class="flex w-32 shrink-0 snap-start flex-col items-center gap-2 text-center">
           <span class="flex h-12 w-12 items-center justify-center rounded-2xl bg-brand-gradient text-white shadow-glow">

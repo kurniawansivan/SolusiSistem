@@ -22,7 +22,7 @@ const localePath = useLocalePath()
         >
           <div
             v-reveal="{ x: index % 2 === 0 ? -24 : 24 }"
-            class="reveal flex justify-center"
+            class="reveal flex min-w-0 justify-center"
             :class="index % 2 === 0 ? 'lg:order-2' : 'lg:order-1'"
           >
             <PrototypesWebPrototype v-if="service.id === 'web'" />

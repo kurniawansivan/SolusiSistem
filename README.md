@@ -16,7 +16,7 @@ npm run dev            # buka http://localhost:3000
 | Perintah | Fungsi |
 |---|---|
 | `npm run dev` | Dev server dengan hot reload |
-| `npm run generate` | Build statis untuk deploy (output: `.output/public`) |
+| `npm run generate` | Build statis untuk deploy (output: `dist`) |
 | `npm run preview` | Preview hasil `generate` secara lokal |
 | `npm run lint` / `lint:fix` | ESLint check / auto-fix |
 | `npm run format` | Format kode dengan Prettier |

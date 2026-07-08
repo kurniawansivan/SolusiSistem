@@ -27,7 +27,7 @@ Tujuan utama: konversi visitor jadi leads (isi form kontak / chat WhatsApp).
 
 ```bash
 npm run dev             # dev server (localhost:3000)
-npm run generate        # build statis untuk Netlify (folder .output/public)
+npm run generate        # build statis untuk Netlify (folder dist)
 npm run preview         # preview hasil build statis
 npm run lint            # eslint, harus 0 error/warning
 npm run lint:fix        # auto-fix lint

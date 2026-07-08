@@ -13,7 +13,7 @@
 2. Pilih repo ini dari Git provider.
 3. Build settings:
    - **Build command**: `npm run generate`
-   - **Publish directory**: `.output/public`
+   - **Publish directory**: `dist`
    - **Node version**: 20 atau lebih baru (set lewat `NODE_VERSION` env var kalau perlu, atau file
      `.nvmrc` — proyek ini sudah teruji di Node 24).
 4. Sebelum klik "Deploy site", buka bagian **Environment variables** dan isi SEMUA variabel dari
@@ -66,7 +66,7 @@ Yang perlu dilakukan manual di dashboard Netlify:
 ## 6. Build Lokal untuk Verifikasi Sebelum Push
 
 ```bash
-npm run generate   # build statis, output ke .output/public
+npm run generate   # build statis, output ke dist
 npm run preview    # jalankan hasil build statis di localhost untuk verifikasi akhir
 ```
 

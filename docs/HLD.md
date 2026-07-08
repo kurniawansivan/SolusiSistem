@@ -32,7 +32,7 @@ login, database, atau backend custom di fase ini.
 ```
 
 Tidak ada server runtime custom yang perlu dijaga — output dari `npm run generate` adalah folder statis
-(`.output/public`) yang di-deploy langsung ke Netlify CDN. Satu-satunya bagian "dinamis" di production
+(`dist`) yang di-deploy langsung ke Netlify CDN. Satu-satunya bagian "dinamis" di production
 adalah submission form kontak, yang ditangani oleh fitur Netlify Forms (bukan server milik kita).
 
 ## 3. Kenapa Nuxt (Vue) + Static Generation
